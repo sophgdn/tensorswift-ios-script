@@ -1,5 +1,5 @@
 # Tensorswift iOS script
-A script you can run on MacOS to make <a href="https://github.com/mortenjust/tensorswift-ios">mortenjust/tensorswift-ios</a> work. Run this script the whole time you are running <a href="https://github.com/mortenjust/trainer-mac">mortenjust/trainer-mac</a> to make the program work. 
+A script you can run on MacOS to make <a href="https://github.com/mortenjust/tensorswift-ios">mortenjust/tensorswift-ios</a> work with Xcode Version 10.0. Run this script the whole time you are running <a href="https://github.com/mortenjust/trainer-mac">mortenjust/trainer-mac</a> to make the program work. 
 
 **This only works for MacOS**
 
