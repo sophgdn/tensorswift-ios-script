@@ -5,5 +5,5 @@ A script you can run on MacOS to make <a href="https://github.com/mortenjust/ten
 
 ## Instructions 
 
-1. Download or clone fix.sh (<a href="https://help.github.com/articles/cloning-a-repository/">how to clone a github repo</a>) 
+1. Download or clone fix.sh (<a href="https://help.github.com/articles/cloning-a-repository/">how to clone a github repo</a> or <a href="https://stackoverflow.com/questions/6466945/fastest-way-to-download-a-github-project"> how to download a github repo</a>) 
 2. 
