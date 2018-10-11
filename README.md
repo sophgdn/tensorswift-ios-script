@@ -5,7 +5,7 @@ A script you can run on MacOS to make <a href="https://github.com/mortenjust/ten
 
 ## Instructions 
 
-1. Clone or download fix.sh (<a href="https://help.github.com/articles/cloning-a-repository/">how to clone a github repo</a> or <a href="https://stackoverflow.com/questions/6466945/fastest-way-to-download-a-github-project"> how to download a github repo</a>) 
+1. Clone or download this repo to get the file fix.sh (<a href="https://help.github.com/articles/cloning-a-repository/">how to clone a github repo</a> or <a href="https://stackoverflow.com/questions/6466945/fastest-way-to-download-a-github-project"> how to download a github repo</a>) 
 2. Open terminal and cd into the folder where you downloaded fix.sh
 3. In terminal type `./fix.sh` and press enter 
 
