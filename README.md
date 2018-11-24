@@ -10,7 +10,7 @@ A script you can run on MacOS to make <a href="https://github.com/mortenjust/ten
 
 ![Terminal Screenshot](https://s3-ap-southeast-2.amazonaws.com/www.sophgdn.com/github-images/step+1.gif)
 
-3. In terminal type `./fix.sh` and press enter 
+3. In terminal type `./fix.sh` and press `enter`
 
 ![Terminal Screenshot](https://s3-ap-southeast-2.amazonaws.com/www.sophgdn.com/github-images/step+2.gif)
 
