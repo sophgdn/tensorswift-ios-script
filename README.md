@@ -6,10 +6,13 @@ A script you can run on MacOS to make <a href="https://github.com/mortenjust/ten
 ## Instructions 
 
 1. Clone or download this repo to get the file fix.sh (<a href="https://help.github.com/articles/cloning-a-repository/">how to clone a github repo</a> or <a href="https://stackoverflow.com/questions/6466945/fastest-way-to-download-a-github-project"> how to download a github repo</a>) 
-2. Open terminal and cd into the folder where you downloaded fix.sh
+2. Open terminal and navigate to the folder where you downloaded fix.sh. Alternatively you can type `cd` into the terminal and then drop and drag the folder that contains fix.sh into the terminal and press `enter`. For example if fix.sh is on your Desktop: 
+
+![Terminal Screenshot](https://s3-ap-southeast-2.amazonaws.com/www.sophgdn.com/github-images/step+1.gif)
+
 3. In terminal type `./fix.sh` and press enter 
 
-![Terminal](https://s3-ap-southeast-2.amazonaws.com/www.sophgdn.com/Terminal.png)
+![Terminal Screenshot](https://s3-ap-southeast-2.amazonaws.com/www.sophgdn.com/github-images/step+2.gif)
 
 4. Follow the instructions in <a href="https://github.com/mortenjust/tensorswift-ios">mortenjust/tensorswift-ios</a> and keep the script running the entire time that you're running <a href="https://github.com/mortenjust/trainer-mac">mortenjust/trainer-mac</a>
 
@@ -18,5 +21,7 @@ A script you can run on MacOS to make <a href="https://github.com/mortenjust/ten
 ![Home directory](https://s3-ap-southeast-2.amazonaws.com/www.sophgdn.com/home.png)
 
 ![tf_files folder in Home directory](https://s3-ap-southeast-2.amazonaws.com/www.sophgdn.com/file.png)
+
+5. To stop the program, either close the terminal window or type `control` + `c` into terminal 
 
 
